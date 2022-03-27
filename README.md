@@ -1,7 +1,7 @@
 I'm passionate about Networking, Cloud and InfoSec. A geek at heart, that loves to play with tech and the piano despite not being good at either. I guess I'm a rebel in that sense, then.
 
-⚒️ I’m currently working on Cloud Security & Compliance.
-💬 Ask me about Career, Cloud, Infosec (and Music)
+- ⚒️ I’m currently working on Cloud Security & Compliance.
+- 💬 Ask me about Career, Cloud, Infosec (and Music)
 
      🕸️ [Cloudnsec.com](https://cloudnsec.com)<br/>
      🎙️ [Cloudnsec Podcast](https://bit.ly/cloudnsecspotify)<br/>
