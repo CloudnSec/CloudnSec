@@ -3,9 +3,9 @@ I'm passionate about Networking, Cloud and InfoSec. A geek at heart, that loves 
 ⚒️ I’m currently working on Cloud Security & Compliance.
 💬 Ask me about Career, Cloud, Infosec (and Music)
 
-     > 🕸️ [Cloudnsec.com](https://cloudnsec.com)<br/>
-     > 🎙️ [Cloudnsec Podcast](https://bit.ly/cloudnsecspotify)<br/>
-     > 🖋️ [Cloudnsec Blog](https://andrecamillo.medium.com)<br/>
+     🕸️ [Cloudnsec.com](https://cloudnsec.com)<br/>
+     🎙️ [Cloudnsec Podcast](https://bit.ly/cloudnsecspotify)<br/>
+     🖋️ [Cloudnsec Blog](https://andrecamillo.medium.com)<br/>
 
 <!---
 CloudnSec/CloudnSec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
